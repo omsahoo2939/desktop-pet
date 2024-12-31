@@ -1,1 +1,1 @@
-# Desktop companion
+# Your AI desktop companion
