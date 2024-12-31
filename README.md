@@ -1,1 +1,1 @@
-# wAI.fu
+# Your AI desktop companion
