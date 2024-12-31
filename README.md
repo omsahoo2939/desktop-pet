@@ -1,1 +1,1 @@
-# wAI.fu
+# Desktop companion
